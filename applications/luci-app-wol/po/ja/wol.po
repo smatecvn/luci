@@ -1,0 +1,85 @@
+# Generated from applications/luci-wol/luasrc/model/cbi/wol.lua
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-19 00:29+0200\n"
+"PO-Revision-Date: 2017-01-27 21:03+0900\n"
+"Last-Translator: INAGAKI Hiroshi <musashino.open@gmail.com>\n"
+"Language-Team: none\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:63
+msgid "Choose the host to wake up or enter a custom MAC address to use"
+msgstr "起動するホストのMACアドレスを選択または入力してください"
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:116
+msgid "Dismiss"
+msgstr ""
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:62
+msgid "Host to wake up"
+msgstr "起動するホストを指定"
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:50
+msgid "Network interface to use"
+msgstr "使用するネットワークインターフェース"
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:87
+msgid "No target host specified!"
+msgstr ""
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:43
+msgid ""
+"Sometimes only one of the two tools works. If one fails, try the other one"
+msgstr ""
+"片方のツールのみが動作する場合があるため、片方が失敗する場合は別のツールを試"
+"してみてください。"
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:51
+msgid "Specifies the interface the WoL packet is sent on"
+msgstr "WoLパケットを送信するインタフェースを指定"
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:36
+#: applications/luci-app-wol/root/usr/share/luci/menu.d/luci-app-wol.json:3
+msgid "Wake on LAN"
+msgstr "Wake on LAN"
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:37
+msgid ""
+"Wake on LAN is a mechanism to remotely boot computers in the local network."
+msgstr ""
+"Wake on LANはローカルネットワーク内のコンピュータを遠隔で起動させることができ"
+"る機能です。"
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:133
+msgid "Wake up host"
+msgstr "ホストを起動"
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:104
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:109
+msgid "Waking host"
+msgstr ""
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:122
+msgid "Waking host failed:"
+msgstr ""
+
+#: applications/luci-app-wol/htdocs/luci-static/resources/view/wol.js:42
+msgid "WoL program"
+msgstr "WoLプログラム"
+
+#~ msgid "Broadcast on all interfaces"
+#~ msgstr "全てのインターフェースへブロードキャスト"
+
+#~ msgid "Send to broadcast address"
+#~ msgstr "ブロードキャスト アドレスに送信する"
+
+#~ msgid "Starting WoL utility:"
+#~ msgstr "WoLユーティリティを起動:"
